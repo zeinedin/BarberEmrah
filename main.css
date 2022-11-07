@@ -1,0 +1,176 @@
+body{
+    background-color: #F5F1ED;
+}
+nav img{
+    width: 180px;
+    float: left;
+    border: 1px solid black;
+}
+nav ul{
+    float: right;
+    border: 1px solid black;
+}
+nav a img{
+    padding: 0;
+    margin: 0;
+    margin-top: -30px;
+    margin-left: -20px;
+}
+nav ul li{
+    list-style: none;
+    display: inline;
+    float: left;
+}
+nav ul li a{
+
+    text-decoration: none;
+    display: block;
+    padding: 8px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: #FB8B24;
+    border-radius: 15px;
+    width: 180px;
+    color: white;
+    text-align: center;
+}
+main{
+    float: left;
+}
+main img{
+    width: 700px;
+    margin-top: 100px;
+    margin-right: 10px;
+    display: inline-block;
+}
+main div{
+    display: inline-block;
+}
+main div h1{
+    font-family: monospace, sans-serif;
+    font-size: 50px;
+}
+main div p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+main div button{
+    border: none;
+    width: 300px;
+    height: 50px;
+    margin-top: 125px;
+    border-radius: 15px;
+}
+#btn_1{
+    width: 300px;
+    background-color:#FB8B24;
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+#btn_1 a {
+    text-decoration: none;
+    color: white;
+}
+#btn_1 a:hover {
+    color: black;
+}
+#btn_2 {
+    background-color: #B9DDFF;
+    color:white;
+}
+#btn_2 a {
+    text-decoration: none;
+    color: white;
+}
+#btn_2 a:hover {
+    color: black;
+}
+#second_page{
+    width: 100%;
+    height: 600px;
+    background-color: #453643;
+    float:left;
+    padding: 25px 0;
+    margin-top: 50px;
+}
+#second_page img{
+    width: 400px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+#second_page div h3{
+    display: inline-block;
+    margin-left: 350px;
+    font-size: 50px;
+}
+div .haar_img_cap1{
+    margin-left: 100px;
+    position: absolute;
+    left: -150px;
+    color: #B9DDFF;
+}
+div .haar_img_cap2{
+    margin-left: 500px;
+    position: absolute;
+    left: 300px;
+    color: #B9DDFF;
+
+}
+div .haar_img_cap3{
+    margin-right: 10px;
+    position: absolute;
+    right: 105px;
+    color: #B9DDFF;
+
+}
+#third_page{
+    float: left;
+    width: 100%;
+    height: 600px;
+}
+#third_page div{
+    position:inherit;
+    margin-left: 50px;
+    margin-top: 100px;
+    float: left;
+    width: 250px;
+}
+#third_page div img{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
+#third_page .locatie_img{
+    
+    width: 500px;
+    height: 400px;
+    margin-right: 100px;
+    float: right;
+    margin-top: 100px;
+}
+#third_page div image{
+    display: block;
+}
+#third_page div ul {
+   
+    list-style: none;
+}
+#third_page div ul li{
+    font-size: 30px;
+    
+}
+#third_page div ul h3{
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+#contactPage{
+    height: 1000px;
+    width: 100%;
+    background-color: #453643;
+}
